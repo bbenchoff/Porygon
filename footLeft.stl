@@ -1,0 +1,121 @@
+solid OpenSCAD_Model
+  facet normal 0 0 0
+    outer loop
+      vertex 40 -20 0
+      vertex 22 -20 0
+      vertex 22 36 0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 22 36 0
+      vertex 40 36 0
+      vertex 40 -20 0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 22 36 13
+      vertex 40 36 0
+      vertex 22 36 0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 40 36 0
+      vertex 22 36 13
+      vertex 40 36 8
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 40 -20 0
+      vertex 40 -20 6
+      vertex 22 -20 0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 22 -20 9
+      vertex 22 -20 0
+      vertex 40 -20 6
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 40 14 20
+      vertex 22 -20 9
+      vertex 40 -20 6
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 22 -20 9
+      vertex 40 14 20
+      vertex 22 14 25
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 40 14 20
+      vertex 40 36 8
+      vertex 22 14 25
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 22 14 25
+      vertex 40 36 8
+      vertex 22 36 13
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 40 14 0
+      vertex 40 -20 6
+      vertex 40 -20 0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 40 14 20
+      vertex 40 -20 6
+      vertex 40 14 0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 40 14 0
+      vertex 40 36 0
+      vertex 40 36 8
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 40 36 8
+      vertex 40 14 20
+      vertex 40 14 0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 22 36 0
+      vertex 22 14 25
+      vertex 22 36 13
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 22 -20 0
+      vertex 22 14 25
+      vertex 22 36 0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 22 -20 9
+      vertex 22 14 25
+      vertex 22 -20 0
+    endloop
+  endfacet
+endsolid OpenSCAD_Model
